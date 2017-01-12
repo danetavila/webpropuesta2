@@ -1,4 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Droid+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 
@@ -487,11 +489,13 @@ h6,
 }
 #header1-1 .mbr-section-lead {
   color: #ffffff;
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Droid Sans', sans-serif;
 }
 #header1-1 .mbr-section-title {
-  color: #ffffff;
-  font-family: 'Montserrat', sans-serif;
+  color: #faaf40;
+  font-family: 'Oswald', sans-serif;
+  font-size: 46px;
+  text-align: right;
 }
 #msg-box3-b .mbr-section-title,
 #msg-box3-b p {

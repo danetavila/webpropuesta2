@@ -147,13 +147,15 @@
           "_styles": {
             ".mbr-section-lead": {
               "color": "#ffffff",
-              "font-family": "'Raleway', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+              "font-family": "'Droid Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700"
             },
             ".mbr-section-title": {
-              "color": "#ffffff",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+              "color": "#faaf40",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "46px",
+              "text-align": "right"
             }
           },
           "_anchor": "header1-1",
@@ -171,12 +173,12 @@
             "overlay": true,
             "overlayOpacity": "0.5",
             "overlayColor": "#000",
-            "contentAlign": "center",
+            "contentAlign": "right",
             "showTitle": true,
             "showText": true,
             "showButtons": false
           },
-          "title": "Gana Cada 30 Minutos",
+          "title": "ESTRATEGIAS DE INVERSION A TRAVÉS DE INTERNET",
           "text": "Es un equipo de Networkers profesionales con presencia internacional, dedicados en asesorar a las personas sobre las distintas opciones que existen en internet para generar ingresos de forma legal, segura y rentable.&nbsp;<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a>"
         },
